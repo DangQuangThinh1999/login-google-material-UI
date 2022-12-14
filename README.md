@@ -1,8 +1,8 @@
 # YOU WANT TO RUN the APP ???
 
-- node server.js
+- node server.js          // Run server
 <!--  Run server -->
-- npm start
+- npm start               // Run UI
 <!--  Run UI -->
 
 # Getting Started with Create React App
